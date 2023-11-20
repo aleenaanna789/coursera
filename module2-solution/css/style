@@ -45,11 +45,6 @@ section.mars>h2 {
     background-color: #10328a;
 }
 
-section.earth>h2 {
-    color: #e2e2e2;
-    background-color: #10328a;
-}
-
 section>p {
     padding: 40px 15px 15px 15px;
 }
